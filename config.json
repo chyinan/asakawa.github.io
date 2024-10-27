@@ -7,5 +7,5 @@
     "email":"chyinan2015@gmail.com",
     "startSite":"10/24/2024",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script><script src='https://github.com/chyinan/asakawa.github.io/blob/main/theme.js'></script>",
-    "script":"<script>document.getElementById('cmButton').click();</script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+    "script":"<script>document.getElementById('cmButton').click();</script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
