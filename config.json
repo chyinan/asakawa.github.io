@@ -6,8 +6,6 @@
     "bottomText":"本网站所有内容，在法律许可范围内，均以CC BY-NC-SA协议进行共享。" ,
     "email":"chyinan2015@gmail.com",
     "startSite":"10/24/2024",
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
-    "script":"<script>document.getElementById('cmButton').click();</script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
-    "bgImage":"https://img-baofun.zhhainiao.com/fs/0e8cf540458600c281d71039a16d0695.jpg"
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script><script src='https://github.com/chyinan/asakawa.github.io/blob/main/theme.js'></script>",
+    "script":"<script>document.getElementById('cmButton').click();</script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
 }
