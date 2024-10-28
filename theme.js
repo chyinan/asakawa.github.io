@@ -1,4 +1,4 @@
 html {
-    background: url('背景图片URL') no-repeat center center fixed;
+    background: url('https://img-baofun.zhhainiao.com/fs/8b2124d8f4050f874743ad3e655e32ba.jpg') no-repeat center center fixed;
     background-size: cover;
 }
