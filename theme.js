@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     style.innerHTML = `
         /* 背景图片 */
         html {
-            background: url('https://i1.hdslb.com/bfs/archive/ab5a393bb7f5c8dee2c3a3db54dfff4c4d56540b.jpg') no-repeat center center fixed;
+            background-image: url('https://i1.hdslb.com/bfs/archive/ab5a393bb7f5c8dee2c3a3db54dfff4c4d56540b.jpg') no-repeat center center fixed;
             background-size: cover;
         }
         
